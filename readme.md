@@ -12,23 +12,15 @@ npm i
 react-native run-android
 ```
 ## Screenshots
+<img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153825.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153839.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153913.jpg" width="180" height="400" />    <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/Screenshot_2020-10-05-16-16-13-930_com.coronasuraksha.jpg" width="180" height="400" />
 
-[Screenshot 1](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg)
-
-[Screenshot 2](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153825.jpg)
-
-[Screenshot 3](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153839.jpg)
-
-[Screenshot 4](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153859.jpg)
-
-[Screenshot 5](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153913.jpg)
 
 
 
 ####  [Link to Download App](https://bit.ly/CoronaSuraksha)
 ## Contributions
 
-This app was designed and developed by Aman Goel.
+This app was designed and deeloped by Aman Goel.
 The APIs used were:
 1. [Ninja API](https://corona.lmao.ninja/)
 2. [Covid19India](https://api.covid19india.org/)
