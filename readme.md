@@ -12,7 +12,7 @@ npm i
 react-native run-android
 ```
 ## Screenshots
-<img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153825.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153839.jpg" width="180" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153913.jpg" width="180" height="400" />    <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/Screenshot_2020-10-05-16-16-13-930_com.coronasuraksha.jpg" width="180" height="400" />
+<img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg" width="220" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153825.jpg" width="220" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153839.jpg" width="220" height="400" />  <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153913.jpg" width="220" height="400" />    <img src="https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/Screenshot_2020-10-05-16-16-13-930_com.coronasuraksha.jpg" width="220" height="400" />
 
 
 
