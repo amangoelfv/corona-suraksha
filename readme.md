@@ -12,7 +12,7 @@ npm i
 react-native run-android
 ```
 ## Screenshots
-
+(https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg)
 
 ####  [Link to Download App](https://bit.ly/CoronaSuraksha)
 ## Contributions
