@@ -17,7 +17,7 @@ react-native run-android
 ####  [Link to Download App](https://bit.ly/CoronaSuraksha)
 ## Contributions
 
-This app was designed and deeloped by Aman Goel.
+This app was designed and developed by Aman Goel.
 The APIs used were:
 1. [Ninja API](https://corona.lmao.ninja/)
 2. [Covid19India](https://api.covid19india.org/)
