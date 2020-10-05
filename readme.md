@@ -13,6 +13,17 @@ react-native run-android
 ```
 ## Screenshots
 
+[Screenshot 1](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153807.jpg)
+
+[Screenshot 2](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153825.jpg)
+
+[Screenshot 3](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153839.jpg)
+
+[Screenshot 4](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153859.jpg)
+
+[Screenshot 5](https://github.com/amangoelfv/corona-suraksha/blob/master/assets/fonts/screenshots/IMG_20201005_153913.jpg)
+
+
 
 ####  [Link to Download App](https://bit.ly/CoronaSuraksha)
 ## Contributions
